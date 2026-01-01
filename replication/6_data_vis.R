@@ -219,7 +219,7 @@ if (save == 1) {
     p1 / p2 / p3,
     width = 8,
     height = 12,
-    device = grDevices::cairo_ps
+    device = function(...) grDevices::cairo_ps(..., fallback_resolution = 800)
   )
   
   message("Plot saved")
