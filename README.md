@@ -2,4 +2,10 @@
 
 [![DOI](https://zenodo.org/badge/1084627699.svg)](https://doi.org/10.5281/zenodo.17460529)
 
-This is the data for the preregistered survey that can be found at [DOI:10.17605/OSF.IO/T9KQP](https://osf.io/t9kqp/overview). This repository is archived at Zenodo.
+This is the data for a forthcoming manuscript at *Earthquake Spectra*. The doi and more information are forthcoming. The current citation is
+
+Scogin, Shana, Sagar Khanal, Saphal Joshi, & Rachael Lau. (2025). "User acceptance and perceptions of earthquake early warning systems as a function of information type: The case of post-earthquake Nepal." *Earthquake Spectra*. Forthcoming.
+
+Abstract: What drives user perceptions and acceptance of earthquake early warning systems (EEWS) as an emerging technology? Do distinct types of transparency into EEWS affect users’ perceptions of the system’s usefulness and desirability differently? To address these questions, we focus on Nepal, an earthquake-prone country with no active public EEWS infrastructure, to test if and how 1.) information on how the system works and 2.) information about the system’s limitations can drive outcomes related to technology acceptance, namely the desire for system implementation, perceptions of its usefulness, and interest in learning more about the system. We administered an online survey (n = 567) with a preregistered embedded survey experiment to test this model and collect novel data on extant knowledge of and preferences for EEWS as well as collected semi-structured interviews (n = 35). The results are mixed. Opinions on implementation were not affected by type of information. However, limitations alone and combined with technical information decreased opinions of the system’s usefulness, and information about limitations alone increased interest in learning more. The interviews further suggest that these lower perceptions of usefulness may affect how some residents position EEWS in a larger framework of earthquake disaster risk management. This study extends research on technology acceptance, advances what is known about what kinds of information drive perceptions of EEWS, and contributes to knowledge about how residents of Nepal relate to EEWS.
+
+Preregistration: The preregistration can be found at [DOI:10.17605/OSF.IO/T9KQP](https://osf.io/t9kqp/overview). This repository is archived at Zenodo.
